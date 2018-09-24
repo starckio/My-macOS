@@ -56,4 +56,5 @@
 # Safari extentions
 ---
 **Cleaner - for Facebook** — https://safari-extensions.apple.com/details/?id=com.graffino.cleaner-for-facebook-86755BRK69
+
 **Polygot** — https://github.com/uetchy/Polyglot

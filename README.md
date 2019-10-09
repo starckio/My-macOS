@@ -54,7 +54,7 @@
 
 **Transmission** — https://transmissionbt.com
 
-**UnreadMail** — GitHub
+**UnreadMail** — Document folder icloud
 
 **VLC** — https://www.videolan.org/vlc/
 

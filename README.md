@@ -4,7 +4,7 @@
 
 **Beamer** — https://beamer-app.com
 
-**CleanMyMac 3** — https://macpaw.com/cleanmymac-3
+**CleanMyMac X** — https://dl.devmate.com/com.macpaw.CleanMyMac4/CleanMyMacX.dmg
 
 **coconutBattery** — https://www.coconut-flavour.com/coconutbattery/
 
@@ -12,13 +12,13 @@
 
 **Firefox** — https://www.mozilla.org/fr/firefox/
 
+**FolderWasher** — Document folder icloud
+
 **ForkLift** — https://binarynights.com
 
 **GitHub Desktop** — https://desktop.github.com
 
 **Google Chrome** — https://www.google.fr/chrome/
-
-**IINA** — https://lhc70000.github.io/iina/
 
 **KeepingYouAwake** — https://github.com/newmarcel/KeepingYouAwake
 
@@ -38,9 +38,9 @@
 
 **PDF Squeezer** — https://witt-software.com/pdfsqueezer/
 
-**RDM** — https://github.com/avibrazil/RDM
+**SilentKnight** — https://eclecticlight.co/lockrattler-systhist/
 
-**Sketch** — https://download.sketchapp.com/sketch-50.2-55047.zip
+**Sketch** — https://www.sketch.com/get/
 
 **Spectacle** — https://www.spectacleapp.com
 
@@ -48,9 +48,15 @@
 
 **Squash** — https://www.realmacsoftware.com/squash/
 
+**Telegram** — https://macos.telegram.org
+
 **The Unarchiver** — https://theunarchiver.com
 
 **Transmission** — https://transmissionbt.com
+
+**UnreadMail** — GitHub
+
+**VLC** — https://www.videolan.org/vlc/
 
 
 # Safari extentions
